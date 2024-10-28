@@ -8,12 +8,12 @@ criaCartao(
     'Qual a capital da França',
     'A capital da França é Paris'
 )
-criarCartao( 
+criaCartao( 
     'progamação',
     'O que é função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
-criarCartao( 
+criaCartao( 
    'Lingua inglea',
    'Como se diz oi em inglês?',
    'Oi em inglẽs é HI(RAI)'
